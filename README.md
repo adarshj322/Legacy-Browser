@@ -1,4 +1,4 @@
-# Presearch Browser Unofficial [![Build Status](https://travis-ci.org/anthonycr/Lightning-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Lightning-Browser)
+# Presearch Browser Unofficial 
 
 #### Presearch is a new decentralized privacy first search engine powered by the community. Presearch browser is a lightweight fast android browser that uses presearch search engine for delivering accurate and fast results
 ![](launcher_icon_small.png)
