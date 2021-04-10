@@ -3,35 +3,19 @@
 #### Presearch is a new decentralized privacy first search engine powered by the community. Presearch browser is a lightweight fast android browser that uses presearch search engine for delivering accurate and fast results
 ![](launcher_icon_small.png)
 
-#### Download
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/app/acr.browser.lightning) [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
-alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=acr.browser.lightning)
-<!--
-#### Master Branch
-* [![Build Status](https://travis-ci.org/anthonycr/Lightning-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Lightning-Browser)
+#### Features of Presearch Search Engine
+* Completely decentralized 
 
-#### Dev Branch
-* [![Build Status](https://travis-ci.org/anthonycr/Lightning-Browser.svg?branch=dev)](https://travis-ci.org/anthonycr/Lightning-Browser)
--->
+* Privacy First search engine
 
-#### Features
-* Bookmarks
+* Community driven (community members can run a node)
 
-* History
+* Rewarding model (rewards users with cryptocurrency)
 
-* Multiple search engines (Google, Bing, Yahoo, StartPage, DuckDuckGo, etc.)
+* Faster and better search results
 
-* Incognito mode
+* Keyword staking with free traffic
 
-* Follows Google design guidelines
-
-* Unique utilization of navigation drawer for tabs
-
-* Google search suggestions
-
-* Orbot Proxy support and I2P support
 
 #### Permissions
 
@@ -46,22 +30,11 @@ alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/det
 * `ACCESS_FINE_LOCATION`: needed for sites like Google Maps, requires "Location access" option to be enabled (default disabled).
 * `RECORD_AUDIO`: needed to support WebRTC, requires "WebRTC Support" option to be enabled (default disabled).
 * `CAMERA`: needed to support WebRTC, requires "WebRTC Support" option to be enabled (default disabled).
-* `MODIFY_AUDIO_SETTINGS`: needed to support WebRTC, requires "WebRTC Support" option to be enabled (default disabled).
-
-#### The Code
-* Please contribute code back if you can. The code isn't perfect.
-* Please add translations/translation fixes as you see need
-
-#### Contributing
-* [The Trello Board](https://trello.com/b/Gwjx8MC3/lightning-browser)
-* Contributions are always welcome
-* Make pull requests into the `dev` branch.
+* `MODIFY_AUDIO_SETTINGS`: needed to support WebRTC, requires "WebRTC Support" option to be enabled (default disabled)
 
 #### License
 ```
-Copyright 2014 Anthony Restaino
-
-Lightning Browser
+Presearch Browser 
 
    This Source Code Form is subject to the terms of the 
    Mozilla Public License, v. 2.0. If a copy of the MPL 
