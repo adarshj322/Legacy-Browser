@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Lightning</string>
     <string name="action_new_tab">Νέα καρτέλα</string>
     <string name="action_share">Κοινοποίηση</string>
     <string name="action_history">Ιστορικό</string>
@@ -91,7 +90,6 @@
     <string name="action_manual">Χειροκίνητα</string>
     <string name="action_auto">Αυτόματα</string>
     <string name="action_follow_me">Επικοινωνήστε μαζί μου</string>
-    <string name="url_twitter">twitter.com/ACRDevelopment</string>
     <string name="clear_cache">Καθαρισμός cache</string>
     <string name="message_cache_cleared">Cache καθαρίστηκε</string>
     <string name="message_import">Εισήχθησαν οι σελιδοδείκτες</string>
@@ -149,4 +147,7 @@
     <string name="settings_privacy">Ρυθμίσεις ιδιωτικότητας</string>
     <string name="settings_about">Σχετικά</string>
     <string name="settings_about_explain">Λεπτομέρειες για την έκδοση, τον συγγραφέα και τις άδειες.</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

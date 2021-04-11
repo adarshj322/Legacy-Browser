@@ -18,8 +18,8 @@ android {
     }
 
     sourceSets {
-        lightningPlus.setRoot('src/LightningPlus')
-        lightningLite.setRoot('src/LightningLite')
+        Presearch.setRoot('src/Presearch')
+        Presearch_Browser.setRoot('src/Presearch_Browser')
     }
 
     buildTypes {
@@ -56,14 +56,14 @@ android {
     flavorDimensions "capabilities"
 
     productFlavors {
-        lightningPlus {
+        Presearch {
             dimension "capabilities"
             buildConfigField "boolean", "FULL_VERSION", "Boolean.parseBoolean(\"true\")"
-            applicationId "acr.browser.lightning"
+            applicationId "acr.browser.presearch"
             versionCode 101
         }
 
-        lightningLite {
+        Presearch_Browser {
             dimension "capabilities"
             buildConfigField "boolean", "FULL_VERSION", "Boolean.parseBoolean(\"false\")"
             applicationId "acr.browser.barebones"

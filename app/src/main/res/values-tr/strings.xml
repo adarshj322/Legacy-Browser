@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
-    <string name="app_name">Lightning</string>
     <string name="action_new_tab">Yeni sekme</string>
     <string name="action_share">Paylaş</string>
     <string name="action_history">Geçmiş</string>
@@ -98,7 +97,6 @@
     <string name="action_manual">El ile</string>
     <string name="action_auto">Otomatik</string>
     <string name="action_follow_me">Benimle iletişim kurun</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
     <string name="clear_cache">Önbelleği temizle</string>
     <string name="message_cache_cleared">Önbellek temizlendi</string>
     <string name="message_import">Yer işaretleri içe aktarıldı</string>
@@ -326,4 +324,8 @@
     <string name="ad_block_load_failure">Ana bilgisayarlar reklam engelleme kaynağından yüklenemedi.</string>
 
     <string name="infinity">∞</string>
+    <string name="search_engine_presearch">Presearch</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

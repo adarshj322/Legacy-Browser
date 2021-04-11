@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Молния</string>
     <string name="action_new_tab">Создать вкладку</string>
     <string name="action_share">Отправить ссылку</string>
     <string name="action_history">История</string>
@@ -95,7 +94,6 @@
     <string name="action_manual">Вручную</string>
     <string name="action_auto">Автоматически</string>
     <string name="action_follow_me">Связаться с разработчиками</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
     <string name="clear_cache">Очистить кэш</string>
     <string name="message_cache_cleared">Кэш очищен</string>
     <string name="message_import">Закладки импортированы</string>
@@ -257,4 +255,8 @@
     <string name="search_engine_bing">Bing</string>
     <string name="search_engine_baidu">Baidu</string>
     <string name="search_engine_ask">Ask</string>
+    <string name="search_engine_presearch">Presearch</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

@@ -16,7 +16,6 @@
 
 <resources>
 
-    <string name="app_name">Lightning</string>
     <string name="action_new_tab">Novo separador</string>
     <string name="action_share">Partilhar</string>
     <string name="action_history">Histórico</string>
@@ -111,7 +110,6 @@
     <string name="action_manual">Manual</string>
     <string name="action_auto">Automático</string>
     <string name="action_follow_me">Contactos</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
     <string name="clear_cache">Limpar cache</string>
     <string name="message_cache_cleared">Cache limpa</string>
     <string name="message_import">Marcadores importados</string>
@@ -254,4 +252,7 @@
     <string name="dialog_rename_folder">Renomear pasta</string>
     <string name="dialog_remove_folder">Remover pasta</string>
     <string name="dialog_title_close_browser">Fechar navegador</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

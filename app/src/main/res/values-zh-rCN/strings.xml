@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Lightning</string>
     <string name="action_new_tab">新建标签页</string>
     <string name="action_share">分享</string>
     <string name="action_history">历史记录</string>
@@ -324,4 +323,8 @@
 
     <!-- Search -->
     <string name="search_insert_suggestion">插入搜索建议</string>
+    <string name="search_engine_presearch">Presearch</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

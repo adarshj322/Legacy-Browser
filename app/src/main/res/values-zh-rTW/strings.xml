@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">閃電瀏覽器</string>
     <string name="action_new_tab">新增分頁</string>
     <string name="action_share">分享</string>
     <string name="action_history">歷程記錄</string>
@@ -98,7 +97,6 @@
     <string name="action_manual">手動</string>
     <string name="action_auto">自動</string>
     <string name="action_follow_me">聯絡作者</string>
-    <string name="url_twitter">twitter.com/ACRDevelopment</string>
     <string name="clear_cache">清除快取</string>
     <string name="message_cache_cleared">已清除快取</string>
     <string name="message_import">書籤已匯入</string>
@@ -290,4 +288,8 @@
     </plurals>
     <string name="notification_incognito_running_message">點觸以開啟</string>
     <string name="notification_incognito_running_description">正在顯示無痕通知</string>
+    <string name="search_engine_presearch">Presearch</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

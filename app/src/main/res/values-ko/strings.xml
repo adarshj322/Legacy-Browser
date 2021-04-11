@@ -1,6 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
-    <string name="app_name">라이트닝</string>
     <string name="action_new_tab">새 탭</string>
     <string name="action_share">공유</string>
     <string name="action_history">기록</string>
@@ -90,7 +89,6 @@
     <string name="action_manual">수동</string>
     <string name="action_auto">자동</string>
     <string name="action_follow_me">개발자에게 연락하기</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
     <string name="clear_cache">캐시 지우기</string>
     <string name="message_cache_cleared">캐시를 지웠습니다</string>
     <string name="message_import">즐겨찾기를 가져왔습니다</string>
@@ -244,4 +242,7 @@
     <string name="message_permission_request">%1$s  다음 권한을 사용하려 합니다:  %2$s</string>
     <string name="tabs_in_drawer">탭을 탐색 창에 표시</string>
     <string name="swap_bookmarks_and_tabs">즐겨찾기와 탭 창 위치 바꾸기</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
-    <string name="app_name">Lightning</string>
+    <string name="app_name">Presearch</string>
+    <string name="lightning">Lightning</string>
     <string name="action_new_tab">New tab</string>
     <string name="action_share">Share</string>
     <string name="action_history">History</string>
@@ -99,7 +100,7 @@
     <string name="action_manual">Manual</string>
     <string name="action_auto">Auto</string>
     <string name="action_follow_me">Contact me</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
     <string name="clear_cache">Clear cache</string>
     <string name="message_cache_cleared">Cache cleared</string>
     <string name="message_import">Bookmarks were imported</string>
@@ -303,6 +304,7 @@
 
     <!-- Search Engines -->
     <string name="search_engine_custom">Custom URL</string>
+    <string name="search_engine_presearch">Presearch</string>
     <string name="search_engine_google">Google</string>
     <string name="search_engine_ask">Ask</string>
     <string name="search_engine_bing">Bing</string>
@@ -342,4 +344,7 @@
 
     <!-- Search -->
     <string name="search_insert_suggestion">Insert suggestion</string>
+
+    <!-- Register -->
+    <string name="register_key">Register</string>
 </resources>

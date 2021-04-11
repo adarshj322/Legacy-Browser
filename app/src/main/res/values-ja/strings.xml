@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
-    <string name="app_name">Lightning</string>
     <string name="action_new_tab">新しいタブ</string>
     <string name="action_share">共有</string>
     <string name="action_history">履歴</string>
@@ -98,7 +97,6 @@
     <string name="action_manual">手動</string>
     <string name="action_auto">自動</string>
     <string name="action_follow_me">問い合わせ先</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
     <string name="clear_cache">キャッシュを消去する</string>
     <string name="message_cache_cleared">キャッシュを消去しました</string>
     <string name="message_import">ブックマークをインポートしました</string>
@@ -249,4 +247,7 @@
     <string name="dialog_title_close_browser">タブの消去</string>
     <string name="dialog_delete_download">ダウンロードの削除</string>
     <string name="dialog_delete_all_downloads">ダウンロードの全削除</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

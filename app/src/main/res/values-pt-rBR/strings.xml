@@ -16,7 +16,6 @@
 
 <resources>
 
-    <string name="app_name">Lightning</string>
     <string name="action_new_tab">Nova aba</string>
     <string name="action_share">Compartilhar</string>
     <string name="action_history">Histórico</string>
@@ -106,7 +105,6 @@
     <string name="action_manual">Manual</string>
     <string name="action_auto">Automático</string>
     <string name="action_follow_me">Contato</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
     <string name="clear_cache">Limpar cache</string>
     <string name="message_cache_cleared">Cache limpo</string>
     <string name="message_import">Favoritos importados</string>
@@ -195,4 +193,7 @@
     <string name="invert_color">Inverter cores</string>
     <string name="dark_theme">Tema escuro</string>
     <string name="tabs">Abas</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

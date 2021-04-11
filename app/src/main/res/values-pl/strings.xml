@@ -149,7 +149,6 @@
 	<string name="message_import">Zakładki zostały zaimportowane</string>
 	<string name="message_cache_cleared">Pamięć podręczna została wyczyszczona</string>
 	<string name="clear_cache">Wyczyść pamięć podręczną</string>
-	<string name="url_twitter">twitter.com/ACRDevelopment</string>
 	<string name="action_follow_me">Skontaktuj się z autorem</string>
 	<string name="action_auto">Automatycznie</string>
 	<string name="action_manual">Ręcznie</string>
@@ -246,8 +245,7 @@
 	<string name="action_history">Historia</string>
 	<string name="action_share">Udostępnij</string>
 	<string name="action_new_tab">Nowa karta</string>
-	<string name="app_name">Lightning</string>
-	<string-array name="proxy_choices_array">
+    <string-array name="proxy_choices_array">
 		<item>Bez proxy</item>
 		<item>Orbot</item>
 		<item>I2P</item>
@@ -258,4 +256,8 @@
 		<item>Pełny URL</item>
 		<item>Tytuł strony</item>
 	</string-array>
+    <string name="search_engine_presearch">Presearch</string>
+	<string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+	<string name="url_twitter">twitter.com/adarshj322</string>
 </resources>

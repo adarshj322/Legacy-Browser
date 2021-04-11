@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Lightning</string>
     <string name="action_new_tab">Nueva pestaña</string>
     <string name="action_share">Compartir</string>
     <string name="action_history">Historial</string>
@@ -91,7 +90,6 @@
     <string name="action_manual">Manual</string>
     <string name="action_auto">Auto</string>
     <string name="action_follow_me">Contáctame</string>
-    <string name="url_twitter">twitter.com/RestainoAnthony</string>
     <string name="clear_cache">Limpiar caché</string>
     <string name="message_cache_cleared">La caché se ha borrado</string>
     <string name="message_import">Los marcadores se han importado</string>
@@ -241,4 +239,7 @@
 
     <string name="problem_download">La dirección no es válida, no se pudo descargar</string>
     <string name="problem_location_download">No se pudo descargar en la localización específica</string>
+    <string name="app_name">Presearch</string>
+    <string name="register_key">Register</string>
+    <string name="url_twitter">twitter.com/adarshj322</string>
 </resources>
