@@ -3,6 +3,11 @@
 #### Presearch is a new decentralized privacy first search engine powered by the community. Presearch browser is a lightweight fast android browser that uses presearch search engine for delivering accurate and fast results
 ![](launcher_icon_small.png)
 
+#### Download
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
+alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=acr.browser.lightning)
+
 #### Features of Presearch Search Engine
 * Completely decentralized 
 
