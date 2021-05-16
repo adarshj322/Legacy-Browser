@@ -1,6 +1,6 @@
-# Presearch Browser Unofficial 
+# Legacy Browser
 
-#### Presearch is a new decentralized privacy first search engine powered by the community. Presearch browser is a lightweight fast android browser that uses presearch search engine for delivering accurate and fast results
+#### Legacy browser is a lightweight fast android browser that uses presearch search engine (default) for delivering accurate and fast results. Presearch is a decentralized search engine that rewards users with for searching the web. Legacy browser is highly customisable with upto 10 search engines to choose from. 
 ![](launcher_icon_small.png)
 
 #### Download
@@ -8,18 +8,20 @@
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
 alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=acr.browser.presearch)
 
-#### Features of Presearch Search Engine
-* Completely decentralized 
+#### Features of Legacy browser
+* Decentralised search engine Presearch provides better privacy
 
-* Privacy First search engine
+* Orbot and I2P support
 
-* Community driven (community members can run a node)
+* Incognito mode
 
-* Rewarding model (rewards users with cryptocurrency)
+* Lightweight and fast
 
-* Faster and better search results
+* Highly customizable privacy settings 
 
-* Keyword staking with free traffic
+* Google search suggestions
+
+* Multiple search engines
 
 
 #### Permissions
@@ -39,7 +41,7 @@ alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/det
 
 #### License
 ```
-Presearch Browser 
+Legacy Browser 
 
    This Source Code Form is subject to the terms of the 
    Mozilla Public License, v. 2.0. If a copy of the MPL 
